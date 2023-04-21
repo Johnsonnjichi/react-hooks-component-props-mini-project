@@ -1,7 +1,7 @@
 import React from "react";
 
 
-function Article ({title, date, minutes, preview}) {
+function Article ({title, date, preview}) {
     return (
       <article>
         <h3>{title}</h3>
